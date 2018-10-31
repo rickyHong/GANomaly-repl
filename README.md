@@ -14,6 +14,8 @@ This repository contains PyTorch implementation of the following paper: GANomaly
     - [Citing GANomaly](#citing-ganomaly)
     - [Reference](#reference)
 
+## DataSets
+http://dmery.ing.puc.cl/index.php/material/gdxray/
 
 ## Prerequisites
 1. Linux or MacOS
